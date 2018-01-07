@@ -7,5 +7,3 @@ mkdir xmr-stak/build
     cmake .. -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
 make install
 cd ~/sh/xmr-stak/build/bin
-./xmr-stak
-monero
