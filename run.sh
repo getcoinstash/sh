@@ -1,7 +1,7 @@
 #! /bin/bash
-sudo yum install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
-yum update
-git clone https://github.com/fireice-uk/xmr-stak.git
+sudo apt-get install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
+sudo apt-get update
+sudo git clone https://github.com/fireice-uk/xmr-stak.git
 mkdir xmr-stak/build
     cd xmr-stak/build
     cmake3 .. -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF
