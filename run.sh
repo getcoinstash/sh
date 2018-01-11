@@ -1,6 +1,7 @@
 #! /bin/bash
 sudo apt-get install git nano libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev screen libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev --assume-yes
-sudo apt-get update
+sudo apt-get update --assume-yes
+sudo sysctl -w vm.nr_hugepages=128
 sudo git clone https://github.com/fireice-uk/xmr-stak.git
 mkdir xmr-stak/build
 cd xmr-stak/build
