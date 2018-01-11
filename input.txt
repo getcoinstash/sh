@@ -1,7 +1,7 @@
 monero
-pool.supportxmr.com:5555
-4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWGdqwPaKinNFSSmCbG
-x
+bytecoin.uk:9999
+28Cyqt66vzMH4AxBkDmue8Pf3Qovqy9MHEJuQ4H1F9oyUarAciUzqxZfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJMXjtqA
+bytecoin-miner-1
 N
 n
 n
